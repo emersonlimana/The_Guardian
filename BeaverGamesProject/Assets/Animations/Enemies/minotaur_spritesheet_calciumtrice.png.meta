@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 31739811a1fce8c4d89560f838482a95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4047618696604716664
+    second: minotaur_spritesheet_calciumtrice_0
+  - first:
+      213: 4189546789319207314
+    second: minotaur_spritesheet_calciumtrice_1
+  - first:
+      213: 3829241433767396073
+    second: minotaur_spritesheet_calciumtrice_2
+  - first:
+      213: -1977301799976773017
+    second: minotaur_spritesheet_calciumtrice_3
+  - first:
+      213: -486078669569601375
+    second: minotaur_spritesheet_calciumtrice_4
+  - first:
+      213: 7216848477714115040
+    second: minotaur_spritesheet_calciumtrice_5
+  - first:
+      213: -6717911720751935352
+    second: minotaur_spritesheet_calciumtrice_6
+  - first:
+      213: 8431974979536492014
+    second: minotaur_spritesheet_calciumtrice_7
+  - first:
+      213: -2565182028353089349
+    second: minotaur_spritesheet_calciumtrice_8
+  - first:
+      213: 8187951208946285734
+    second: minotaur_spritesheet_calciumtrice_9
+  - first:
+      213: 4233982652860397563
+    second: minotaur_spritesheet_calciumtrice_10
+  - first:
+      213: 7361895822075343804
+    second: minotaur_spritesheet_calciumtrice_11
+  - first:
+      213: -8338183333543598539
+    second: minotaur_spritesheet_calciumtrice_12
+  - first:
+      213: 1447840350652130439
+    second: minotaur_spritesheet_calciumtrice_13
+  - first:
+      213: 6803641532674010795
+    second: minotaur_spritesheet_calciumtrice_14
+  - first:
+      213: -8883899253144120298
+    second: minotaur_spritesheet_calciumtrice_15
+  - first:
+      213: -5178502594803124726
+    second: minotaur_spritesheet_calciumtrice_16
+  - first:
+      213: -2636287811527831285
+    second: minotaur_spritesheet_calciumtrice_17
+  - first:
+      213: 4601015405476166809
+    second: minotaur_spritesheet_calciumtrice_18
+  - first:
+      213: -1352361303124704313
+    second: minotaur_spritesheet_calciumtrice_19
+  - first:
+      213: -8039246153515640955
+    second: minotaur_spritesheet_calciumtrice_20
+  - first:
+      213: 3758638070720438021
+    second: minotaur_spritesheet_calciumtrice_21
+  - first:
+      213: 1595381201466839232
+    second: minotaur_spritesheet_calciumtrice_22
+  - first:
+      213: -20459329427253850
+    second: minotaur_spritesheet_calciumtrice_23
+  - first:
+      213: -6560088767010382832
+    second: minotaur_spritesheet_calciumtrice_24
+  - first:
+      213: 6885441377272641015
+    second: minotaur_spritesheet_calciumtrice_25
+  - first:
+      213: 7196139527789353029
+    second: minotaur_spritesheet_calciumtrice_26
+  - first:
+      213: -1176402355166494920
+    second: minotaur_spritesheet_calciumtrice_27
+  - first:
+      213: 3882654855294508951
+    second: minotaur_spritesheet_calciumtrice_28
+  - first:
+      213: -4424205225931824721
+    second: minotaur_spritesheet_calciumtrice_29
+  - first:
+      213: 2127778418196684033
+    second: minotaur_spritesheet_calciumtrice_30
+  - first:
+      213: 5648104458978627347
+    second: minotaur_spritesheet_calciumtrice_31
+  - first:
+      213: -3048526043675466368
+    second: minotaur_spritesheet_calciumtrice_32
+  - first:
+      213: 5075755295643092612
+    second: minotaur_spritesheet_calciumtrice_33
+  - first:
+      213: -2426904121189542231
+    second: minotaur_spritesheet_calciumtrice_34
+  - first:
+      213: -8980170323611191820
+    second: minotaur_spritesheet_calciumtrice_35
+  - first:
+      213: -1589438392486419464
+    second: minotaur_spritesheet_calciumtrice_36
+  - first:
+      213: -7276246490160590152
+    second: minotaur_spritesheet_calciumtrice_37
+  - first:
+      213: 1794915868256102723
+    second: minotaur_spritesheet_calciumtrice_38
+  - first:
+      213: -4352601363796997144
+    second: minotaur_spritesheet_calciumtrice_39
+  - first:
+      213: -1166058828928064237
+    second: minotaur_spritesheet_calciumtrice_40
+  - first:
+      213: -5764312976892240328
+    second: minotaur_spritesheet_calciumtrice_41
+  - first:
+      213: -469729416730665526
+    second: minotaur_spritesheet_calciumtrice_42
+  - first:
+      213: -2666017678900810498
+    second: minotaur_spritesheet_calciumtrice_43
+  - first:
+      213: -7295458513552644458
+    second: minotaur_spritesheet_calciumtrice_44
+  - first:
+      213: -6105494403246726896
+    second: minotaur_spritesheet_calciumtrice_45
+  - first:
+      213: 4257045767160121828
+    second: minotaur_spritesheet_calciumtrice_46
+  - first:
+      213: 6140345155263790980
+    second: minotaur_spritesheet_calciumtrice_47
+  - first:
+      213: 8951997586420447579
+    second: minotaur_spritesheet_calciumtrice_48
+  - first:
+      213: -3202883046562314125
+    second: minotaur_spritesheet_calciumtrice_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ade25661091342856045c447031ff
+      internalID: 4047618696604716664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6367e314c911d15459756906148373ef
+      internalID: 4189546789319207314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72701065b049d4488eb47990d518ea
+      internalID: 3829241433767396073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768702329c840e4f8975dc0fc51823d
+      internalID: -1977301799976773017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48f32f832094954f89e0206523ea063
+      internalID: -486078669569601375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364b9bb3aa69152489554cbd96db3755
+      internalID: 7216848477714115040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c0b5d8760fa94cb822ab01ef1b85c
+      internalID: -6717911720751935352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce697f20dc30f47b3f2b44885c2128
+      internalID: 8431974979536492014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85af7d2542cce4d841858eff002b21
+      internalID: -2565182028353089349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6d337d681abc4f840e70c50020f92
+      internalID: 8187951208946285734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1794b5b1a4a71b46a4bc31b10ede0b3
+      internalID: 4233982652860397563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa3d351c58747942a0c9fca3e4da454
+      internalID: 7361895822075343804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3437d1d0cc8344a8b9ffa0f3e48fe9
+      internalID: -8338183333543598539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1b3a7365b81a4aa0df6d72f03992d
+      internalID: 1447840350652130439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0667ab9643e84478c67bd9287bb8aa
+      internalID: 6803641532674010795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 144
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a25269ef5c5d459f4af93a983eb1d
+      internalID: -8883899253144120298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae31e9768897c14bbf6811da0b6a757
+      internalID: -5178502594803124726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e637658304d2994982f740c10f5bd75
+      internalID: -2636287811527831285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 144
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9106cfe539154b90c6c543833c451
+      internalID: 4601015405476166809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a55fc368273948b6ab86dee4b2f45
+      internalID: -1352361303124704313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d943156c7baa9b4a85694b02a612f3f
+      internalID: -8039246153515640955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1baae7145ef7e4090cb27a442c31c9
+      internalID: 3758638070720438021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be95573f8e92e43885ab1cf08ffa2a
+      internalID: 1595381201466839232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 96
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd71376bae9d294fbd56878db64e36f
+      internalID: -20459329427253850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea2df346924b9248bbfd10dda3a5a68
+      internalID: -6560088767010382832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 96
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc7ec6b6d0f9146a6bae3e1d216604
+      internalID: 6885441377272641015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414217f3ab213e3418413cb1ea920a76
+      internalID: 7196139527789353029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 96
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b26d14c553904bb705aba573a24c9
+      internalID: -1176402355166494920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 96
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b120087aaae894588d7d475a0a3124
+      internalID: 3882654855294508951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307fdf33a2591574ab570fd2b06daf59
+      internalID: -4424205225931824721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe41e650d5d81246a653c5afc634983
+      internalID: 2127778418196684033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ee66de1a912ec4a9ea000eb226d030
+      internalID: 5648104458978627347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 48
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db7c8a5d66f76946979c052df26d352
+      internalID: -3048526043675466368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ddac7497870a145afbced49e5daafa
+      internalID: 5075755295643092612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ee1b3501a7824f94c48015c574e6a
+      internalID: -2426904121189542231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 48
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378d5c8f4875674aa7ca374e5aa4ad4
+      internalID: -8980170323611191820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243e13787abcb0489e410fadb40ba4b
+      internalID: -1589438392486419464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2dddb0a8b55884c814b1f30ac1aab1
+      internalID: -7276246490160590152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b9a86f4f4c1f448a5c13cd574b7f8a
+      internalID: 1794915868256102723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab510d356fc26d24e8a4d64f125ca9eb
+      internalID: -4352601363796997144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028144d0e1f76140b1b1248d9ebbe6a
+      internalID: -1166058828928064237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e83c4e9af3d94ab10da2dc495f420
+      internalID: -5764312976892240328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a0c2e31ad62344a80e61a22a091da3
+      internalID: -469729416730665526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330208abf65050e4d88ffaff27e6d56c
+      internalID: -2666017678900810498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09add519402aa454f94df69a837b0ad8
+      internalID: -7295458513552644458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6af4c96a2e76f84a8c22ff4cf24ea2a
+      internalID: -6105494403246726896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe7766b1c05cf4e933513fe743d940
+      internalID: 4257045767160121828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1cd7a539abae54282249261a335f27
+      internalID: 6140345155263790980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122700426bf3c3b408c12f3f37935b4f
+      internalID: 8951997586420447579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur_spritesheet_calciumtrice_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9fb200dd6187d419f8f6e8ee18f2c7
+      internalID: -3202883046562314125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

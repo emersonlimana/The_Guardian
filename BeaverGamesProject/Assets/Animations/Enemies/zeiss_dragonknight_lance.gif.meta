@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 1b870a1b0c4c61a4ba07cffc53f44e34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7678779214256798234
+    second: zeiss_dragonknight_lance_0
+  - first:
+      213: 829881898347544426
+    second: zeiss_dragonknight_lance_1
+  - first:
+      213: 1759279516250245135
+    second: zeiss_dragonknight_lance_2
+  - first:
+      213: 856227672152404662
+    second: zeiss_dragonknight_lance_3
+  - first:
+      213: -2442030808578022756
+    second: zeiss_dragonknight_lance_4
+  - first:
+      213: -5488609652883951699
+    second: zeiss_dragonknight_lance_5
+  - first:
+      213: 7020998047494610439
+    second: zeiss_dragonknight_lance_6
+  - first:
+      213: 5643734238483204550
+    second: zeiss_dragonknight_lance_7
+  - first:
+      213: -756599747762647305
+    second: zeiss_dragonknight_lance_8
+  - first:
+      213: -2875688289156335221
+    second: zeiss_dragonknight_lance_9
+  - first:
+      213: -8737897858185380143
+    second: zeiss_dragonknight_lance_10
+  - first:
+      213: 984707963048684942
+    second: zeiss_dragonknight_lance_11
+  - first:
+      213: -351337370917745808
+    second: zeiss_dragonknight_lance_12
+  - first:
+      213: 8607098626919774717
+    second: zeiss_dragonknight_lance_13
+  - first:
+      213: 8013723745408418259
+    second: zeiss_dragonknight_lance_14
+  - first:
+      213: -4865131657025508357
+    second: zeiss_dragonknight_lance_15
+  - first:
+      213: 1751511409088136785
+    second: zeiss_dragonknight_lance_16
+  - first:
+      213: -265223407305548732
+    second: zeiss_dragonknight_lance_17
+  - first:
+      213: 5970884333695085227
+    second: zeiss_dragonknight_lance_18
+  - first:
+      213: -2355812963903526418
+    second: zeiss_dragonknight_lance_19
+  - first:
+      213: 6399191280215693843
+    second: zeiss_dragonknight_lance_20
+  - first:
+      213: -7110925800003149113
+    second: zeiss_dragonknight_lance_21
+  - first:
+      213: 4911571860627269705
+    second: zeiss_dragonknight_lance_22
+  - first:
+      213: -495293999047588896
+    second: zeiss_dragonknight_lance_23
+  - first:
+      213: 7185254530425962710
+    second: zeiss_dragonknight_lance_24
+  - first:
+      213: -3833837579201533506
+    second: zeiss_dragonknight_lance_25
+  - first:
+      213: -6996606262472252755
+    second: zeiss_dragonknight_lance_26
+  - first:
+      213: 5847382233784376126
+    second: zeiss_dragonknight_lance_27
+  - first:
+      213: -5954049388562428032
+    second: zeiss_dragonknight_lance_28
+  - first:
+      213: -8979987047715793062
+    second: zeiss_dragonknight_lance_29
+  - first:
+      213: -2695291084354539473
+    second: zeiss_dragonknight_lance_30
+  - first:
+      213: -5146467700322120649
+    second: zeiss_dragonknight_lance_31
+  - first:
+      213: -4663244959139845889
+    second: zeiss_dragonknight_lance_32
+  - first:
+      213: 670499392870045816
+    second: zeiss_dragonknight_lance_33
+  - first:
+      213: -1118055971925843831
+    second: zeiss_dragonknight_lance_34
+  - first:
+      213: 1185482548750170026
+    second: zeiss_dragonknight_lance_35
+  - first:
+      213: 6203745302359579437
+    second: zeiss_dragonknight_lance_36
+  - first:
+      213: 4078021349451811735
+    second: zeiss_dragonknight_lance_37
+  - first:
+      213: 2641145990324637137
+    second: zeiss_dragonknight_lance_38
+  - first:
+      213: -117824824251003612
+    second: zeiss_dragonknight_lance_39
+  - first:
+      213: -1692851501686456101
+    second: zeiss_dragonknight_lance_40
+  - first:
+      213: -4996865708984591484
+    second: zeiss_dragonknight_lance_41
+  - first:
+      213: 7370195308322028440
+    second: zeiss_dragonknight_lance_42
+  - first:
+      213: 3974576831387965853
+    second: zeiss_dragonknight_lance_43
+  - first:
+      213: 4489515398532677841
+    second: zeiss_dragonknight_lance_44
+  - first:
+      213: 6494683444143850147
+    second: zeiss_dragonknight_lance_45
+  - first:
+      213: 3930621512426841058
+    second: zeiss_dragonknight_lance_46
+  - first:
+      213: 5960844679585133287
+    second: zeiss_dragonknight_lance_47
+  - first:
+      213: -4062035049120181207
+    second: zeiss_dragonknight_lance_48
+  - first:
+      213: -1969785065375353872
+    second: zeiss_dragonknight_lance_49
+  - first:
+      213: 5525328161803361730
+    second: zeiss_dragonknight_lance_50
+  - first:
+      213: -5669907248186483994
+    second: zeiss_dragonknight_lance_51
+  - first:
+      213: 8363352181478291482
+    second: zeiss_dragonknight_lance_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 612
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79381756511cf046981097ef369abfc
+      internalID: -7678779214256798234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 627
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300293513a5a27643a35d111e6211958
+      internalID: 829881898347544426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 641
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1be718039087245ae55867fdc8386a
+      internalID: 1759279516250245135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 623
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9adb4e4a7e808498dcfe90b9439b96
+      internalID: 856227672152404662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 626
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cec44a919041b459caedbd23fd6d3c
+      internalID: -2442030808578022756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 613
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0a823599c52640b2c6c72a6bddb07
+      internalID: -5488609652883951699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 620
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9acefd67f669564ab8cc16c7d1f37d5
+      internalID: 7020998047494610439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 122
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e310c29ff32bd1647a52b414709e4684
+      internalID: 5643734238483204550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 505
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07098eaf1db2a4e8272f160d78b4e7
+      internalID: -756599747762647305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 496
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db998d93af2f76d4fa926419cdff6c72
+      internalID: -2875688289156335221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 514
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8571aa5d4b3d8b4c87638b6a23ecd8d
+      internalID: -8737897858185380143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a964c61ae5435242bae092f3d7b675a
+      internalID: 984707963048684942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 429
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192f5916c56a07048b008a3cd517c576
+      internalID: -351337370917745808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 454
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db089a68a5675c14ea517cbe0b9e6825
+      internalID: 8607098626919774717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 473
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8896fdd4cadce75429bbd894020bdad5
+      internalID: 8013723745408418259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 484
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9934d41a7087b42a1fdba4ea00972a
+      internalID: -4865131657025508357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 436
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a8791446783c46a6bcabf50eda211
+      internalID: 1751511409088136785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 448
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd9e977c19c744a801ebbfcc340a59
+      internalID: -265223407305548732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 438
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f11a186f733bf841aadd8a7599d2790
+      internalID: 5970884333695085227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 436
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ed9a2d2c5b144c820e7c9c114616c
+      internalID: -2355812963903526418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 378
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb96262520a954ebeea16bda0c9938
+      internalID: 6399191280215693843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d0f4b5357025f47a0cbeeea56bb0ee
+      internalID: -7110925800003149113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 394
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7aa1ee4c91ac45bf44966f77c8a9b
+      internalID: 4911571860627269705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 393
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52dc2f45647a2a4682d3164245155b3
+      internalID: -495293999047588896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 332
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa9fece67525749983fc1b1b91defd
+      internalID: 7185254530425962710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805f0fd67fe47dc46a5c21fdde2a95d9
+      internalID: -3833837579201533506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 366
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f395f0c8c19c4e9e518da1929b5db
+      internalID: -6996606262472252755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 317
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1034d1ed6160cb47b21f8e2622354d6
+      internalID: 5847382233784376126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 280
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446ce3659c166c4eb50ce6f23574f9c
+      internalID: -5954049388562428032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 281
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9b2a1d504d094a9ae8ce0b669e0f7
+      internalID: -8979987047715793062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 281
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b05def51c0e5f94593ed5eb6da2f333
+      internalID: -2695291084354539473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 278
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531c6cb7ad879f4e8e4793b5dc3d12f
+      internalID: -5146467700322120649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 280
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae84a2941211da4eabec27ef47b72f0
+      internalID: -4663244959139845889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d260f74391b68946b275d126d6699b1
+      internalID: 670499392870045816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 194
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9551a74f870a47bbce783ea40b19a
+      internalID: -1118055971925843831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 194
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb86ee768da624f98e32f474cbd404
+      internalID: 1185482548750170026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 195
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639d4c633a1a414cba5153302a1cc81
+      internalID: 6203745302359579437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 195
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ecf68e17b8af4ea1c178add44745b
+      internalID: 4078021349451811735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb819a509b7fcd46aeaf042f7b39253
+      internalID: 2641145990324637137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 168
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e5bb99c5e915d4e82a7e5756f085e0
+      internalID: -117824824251003612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 116
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe9328b4f78db488a8f296391297be
+      internalID: -1692851501686456101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 116
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86f004c6ff81ef4e902fe64be1f12d4
+      internalID: -4996865708984591484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 120
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c728a2a43097274a9bd2cb3e5f82c45
+      internalID: 7370195308322028440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4c99727f529146ab6064dc4259d8b
+      internalID: 3974576831387965853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d877884b351b44aec6037c07e4fe4
+      internalID: 4489515398532677841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 87
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ccdd6f4765faa46b835af59db648db
+      internalID: 6494683444143850147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5346412a6ebe4c80d24d7bc71ead9
+      internalID: 3930621512426841058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 40
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f13c815a5c7a64f90ff33760196336
+      internalID: 5960844679585133287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d49216d0188d9449307ff9dfa1a8f7
+      internalID: -4062035049120181207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 73
+        width: 63
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508cd3990a8b4a04ea347e1eb18f0331
+      internalID: -1969785065375353872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c9244edb7ae4648a1f8417f3657578
+      internalID: 5525328161803361730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399cd9c00c63474ab27239edaaf64b5
+      internalID: -5669907248186483994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeiss_dragonknight_lance_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 9
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7dd774e47e384459d312c7c0aacbd1
+      internalID: 8363352181478291482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

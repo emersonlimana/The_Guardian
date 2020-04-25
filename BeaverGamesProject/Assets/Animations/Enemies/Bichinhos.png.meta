@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: 170deba9c6a7bbb4e85740f588dafbf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4268940267147354448
+    second: Bichinhos_0
+  - first:
+      213: 7562128217844442018
+    second: Bichinhos_1
+  - first:
+      213: 2012072302577881467
+    second: Bichinhos_2
+  - first:
+      213: -977891224678988734
+    second: Bichinhos_3
+  - first:
+      213: 3885566908781048870
+    second: Bichinhos_4
+  - first:
+      213: 8828378086705464079
+    second: Bichinhos_5
+  - first:
+      213: 6167203203124379398
+    second: Bichinhos_6
+  - first:
+      213: -4692566832277555763
+    second: Bichinhos_7
+  - first:
+      213: -8729531613922885893
+    second: Bichinhos_8
+  - first:
+      213: 6357886590300934814
+    second: Bichinhos_9
+  - first:
+      213: -2760503008404194463
+    second: Bichinhos_10
+  - first:
+      213: 8605788566704545271
+    second: Bichinhos_11
+  - first:
+      213: -2271729313077468582
+    second: Bichinhos_12
+  - first:
+      213: 5701933417568322428
+    second: Bichinhos_13
+  - first:
+      213: -2119117065339748854
+    second: Bichinhos_14
+  - first:
+      213: -5507050613793036926
+    second: Bichinhos_15
+  - first:
+      213: 3000744356171455680
+    second: Bichinhos_16
+  - first:
+      213: 920405652485713936
+    second: Bichinhos_17
+  - first:
+      213: 4552185984267822233
+    second: Bichinhos_18
+  - first:
+      213: -3393505688590697648
+    second: Bichinhos_19
+  - first:
+      213: 8644425268803068706
+    second: Bichinhos_20
+  - first:
+      213: 7334508504970346756
+    second: Bichinhos_21
+  - first:
+      213: 7810314388782943322
+    second: Bichinhos_22
+  - first:
+      213: -3622615527221117930
+    second: Bichinhos_23
+  - first:
+      213: -8223540219553458048
+    second: Bichinhos_24
+  - first:
+      213: 8572369677074897712
+    second: Bichinhos_25
+  - first:
+      213: 1589350253568610564
+    second: Bichinhos_26
+  - first:
+      213: 4518445045451144656
+    second: Bichinhos_27
+  - first:
+      213: -3220290599466362620
+    second: Bichinhos_28
+  - first:
+      213: 7582807626167511726
+    second: Bichinhos_29
+  - first:
+      213: -2280204431980535457
+    second: Bichinhos_30
+  - first:
+      213: -1273916422976135677
+    second: Bichinhos_31
+  - first:
+      213: -8010331634559617898
+    second: Bichinhos_32
+  - first:
+      213: -144672434665353393
+    second: Bichinhos_33
+  - first:
+      213: 7193181214835093841
+    second: Bichinhos_34
+  - first:
+      213: -4758913417849947515
+    second: Bichinhos_35
+  - first:
+      213: -8031537005226787559
+    second: Bichinhos_36
+  - first:
+      213: -8017013993496788997
+    second: Bichinhos_37
+  - first:
+      213: 5379835702408230573
+    second: Bichinhos_38
+  - first:
+      213: -2872883642249117120
+    second: Bichinhos_39
+  - first:
+      213: 7016405198039358672
+    second: Bichinhos_40
+  - first:
+      213: -1874055879554830429
+    second: Bichinhos_41
+  - first:
+      213: 98683408148334616
+    second: Bichinhos_42
+  - first:
+      213: 7558155461054377430
+    second: Bichinhos_43
+  - first:
+      213: -6089151095581191424
+    second: Bichinhos_44
+  - first:
+      213: -9022928389679608765
+    second: Bichinhos_45
+  - first:
+      213: 6451274514543719358
+    second: Bichinhos_46
+  - first:
+      213: 7002431762339601151
+    second: Bichinhos_47
+  - first:
+      213: 7816817994648295046
+    second: Bichinhos_48
+  - first:
+      213: 97842833108187265
+    second: Bichinhos_49
+  - first:
+      213: 5877838542276775587
+    second: Bichinhos_50
+  - first:
+      213: 3886457522034475149
+    second: Bichinhos_51
+  - first:
+      213: -7756260040907559750
+    second: Bichinhos_52
+  - first:
+      213: -2506697427272036427
+    second: Bichinhos_53
+  - first:
+      213: 1770074205742931116
+    second: Bichinhos_54
+  - first:
+      213: -5406738684104465328
+    second: Bichinhos_55
+  - first:
+      213: 8332445751073644947
+    second: Bichinhos_56
+  - first:
+      213: -2671291998837891346
+    second: Bichinhos_57
+  - first:
+      213: -4439981162541871559
+    second: Bichinhos_58
+  - first:
+      213: 4923811876689365340
+    second: Bichinhos_59
+  - first:
+      213: -7419502643654434982
+    second: Bichinhos_60
+  - first:
+      213: -3332767961548342653
+    second: Bichinhos_61
+  - first:
+      213: 8862466610881016861
+    second: Bichinhos_62
+  - first:
+      213: 6457332710411270799
+    second: Bichinhos_63
+  - first:
+      213: -7898637561162625265
+    second: Bichinhos_64
+  - first:
+      213: 5843323693217144254
+    second: Bichinhos_65
+  - first:
+      213: -2884162877117874498
+    second: Bichinhos_66
+  - first:
+      213: 819008234593949590
+    second: Bichinhos_67
+  - first:
+      213: -3067212789767636929
+    second: Bichinhos_68
+  - first:
+      213: 8477024777194791008
+    second: Bichinhos_69
+  - first:
+      213: 4407986679705979684
+    second: Bichinhos_70
+  - first:
+      213: 1771814429947581091
+    second: Bichinhos_71
+  - first:
+      213: 6934742554102780057
+    second: Bichinhos_72
+  - first:
+      213: -6289849408820781028
+    second: Bichinhos_73
+  - first:
+      213: 3751769656449651439
+    second: Bichinhos_74
+  - first:
+      213: 353799349571235263
+    second: Bichinhos_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bichinhos_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 302
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f145506217b24982e32222c2b0d46
+      internalID: -4268940267147354448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1b4c396c66ab498f6bcc9e46d02be
+      internalID: 7562128217844442018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 302
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb335783eecc23d45a14566769381a7a
+      internalID: 2012072302577881467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 302
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57bcf8eff01434abf7d25ccc8d7a3f
+      internalID: -977891224678988734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 303
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69295ab852fdddf4c9fc3f337e555c3e
+      internalID: 3885566908781048870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 302
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c3d491b5f7dc479a8248bac01406b
+      internalID: 8828378086705464079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 302
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd448f4c945e708428a3dcb69dfcb588
+      internalID: 6167203203124379398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 302
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b1241f10adc3489da972160daaa8c
+      internalID: -4692566832277555763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 302
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dbed2d1e577c94bb063a13e35ad51a
+      internalID: -8729531613922885893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 302
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a830724d5b8954eba24ca234ba1a13
+      internalID: 6357886590300934814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 302
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d84950b9d0294ebd84028413f01fe
+      internalID: -2760503008404194463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 302
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07a00b1faae0541bb57bc32d5d87d6
+      internalID: 8605788566704545271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a134323f8da11fc4899185e44ef3a72c
+      internalID: -2271729313077468582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 259
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1753ebfd6ae8f04e8945b34bc8860ef
+      internalID: 5701933417568322428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 259
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cab5d4b6c7a534eb0ca6178fbd6e0a
+      internalID: -2119117065339748854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d66af946937304f82d41bcd53dc983
+      internalID: -5507050613793036926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 259
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c9ecaae03a9340bce046bc35430f8
+      internalID: 3000744356171455680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 259
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b97d6a262f61749b8018583634fd1c
+      internalID: 920405652485713936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 131
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6dc621695ea854db36d8d13ad15362
+      internalID: 4552185984267822233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 259
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c896a5f08cba4c9a4a49946cea349
+      internalID: -3393505688590697648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 259
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465db966024b1d4797e6c62f14169f5
+      internalID: 8644425268803068706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 259
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7300e67ea1d7b4f987384d9c6e104d
+      internalID: 7334508504970346756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6796a704203e46858528d1fd0e25b
+      internalID: 7810314388782943322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 216
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a083a4d03d254f8ccbf806e68f89c
+      internalID: -3622615527221117930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 216
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1531773690f7647a21c1afdf3c0775
+      internalID: -8223540219553458048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 216
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c833e08d0d6e43a45bbfa9cba7946
+      internalID: 8572369677074897712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a7684229332447bb534cb8821daaf
+      internalID: 1589350253568610564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a039a2b2f7be4ea11da6ca78b1293
+      internalID: 4518445045451144656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 173
+        width: 172
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167876ef807ffa24dbe1d5046d88c1be
+      internalID: -3220290599466362620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 173
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee7b83e85c2324f93a13f674915c0d
+      internalID: 7582807626167511726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 173
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a949d414f8ca17a4d886c44e523b969c
+      internalID: -2280204431980535457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59276aac56d16ff4fb322d90e827f072
+      internalID: -1273916422976135677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 129
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd2341a6743c824b8d342956230cf5b
+      internalID: -8010331634559617898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 23
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67868b391baadd4ea28b825673818d8
+      internalID: -144672434665353393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 173
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709af04e0ba7b854d82cb9c05d69899a
+      internalID: 7193181214835093841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 173
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43596e2a0eb4de4aab09e0a0f3313ef
+      internalID: -4758913417849947515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 173
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec603ff3b06f2974e826d1fe0c3b580d
+      internalID: -8031537005226787559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae38bf82ed2bd418e55f4eaa7a6a74
+      internalID: -8017013993496788997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 129
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44443eb6285c074fa158f89a1e278bc
+      internalID: 5379835702408230573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03004a929acd244ba96d78d587d72e6
+      internalID: -2872883642249117120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 129
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a16c861feeba046b244a6dd003933a
+      internalID: 7016405198039358672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 129
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac93a83c726d0d4898525848dbeff8f
+      internalID: -1874055879554830429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_42
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 129
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97046ba8ec202245981c225d2d3efe7
+      internalID: 98683408148334616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d29c07966187a4db006cdaa65146fe
+      internalID: 7558155461054377430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_44
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 129
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24022c0a4691f7b458aae683c2c0a24c
+      internalID: -6089151095581191424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 129
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b847b5a5f5f8034f88c7d8e34b00cfa
+      internalID: -9022928389679608765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd850091f347042a0784acf277ac68
+      internalID: 6451274514543719358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 86
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f801d0423aab44c9d3dc62baf1b870
+      internalID: 7002431762339601151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bd85fd43aa75c41be4b6cbf4ee2107
+      internalID: 7816817994648295046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 86
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e43f0b9bd77a349a16dc570e68f882
+      internalID: 97842833108187265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 86
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98edb300efbb2944f8b944db39f48c38
+      internalID: 5877838542276775587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 86
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6e116d6b89a24f9402cc9e6585d04
+      internalID: 3886457522034475149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 86
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a3b30443275b4caa96a632aa97469
+      internalID: -7756260040907559750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 86
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b49df486396ff468028f1bfeec5301
+      internalID: -2506697427272036427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 86
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0e20b666eaef44ac7c9ef8b536646
+      internalID: 1770074205742931116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 86
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c90f7c1b9e704bbae67ba57bad3d9
+      internalID: -5406738684104465328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 86
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94528ec9cd7208b4990b4e4444a93db1
+      internalID: 8332445751073644947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 43
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca23d9d3b2cd584fb95001764a78785
+      internalID: -2671291998837891346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 43
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b41b168186174f95160017634df7e
+      internalID: -4439981162541871559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 43
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8abf3c82333ad4ebe0761a356cd69a
+      internalID: 4923811876689365340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 43
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ce02133766d04ab5f3fd85ca85d09
+      internalID: -7419502643654434982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_61
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 43
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f7cb7d40009e4297da8ecc6a96894
+      internalID: -3332767961548342653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 43
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d04a507000a9e246a2f8482195f8b99
+      internalID: 8862466610881016861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_63
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 43
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49101e9f32e1748abfbad40d255fe6
+      internalID: 6457332710411270799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f9db733692d243a406356db328ad7
+      internalID: -7898637561162625265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e798339cb72241a5151027f29a323
+      internalID: 5843323693217144254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0bb7dc4be1c14ea5430e904ee521a
+      internalID: -2884162877117874498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac92cf59f9110fe428a96ec07a17e7fb
+      internalID: 819008234593949590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fb6d0e1bc1c834d9862330dad76479
+      internalID: -3067212789767636929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_69
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e563509b664138a408a35c3192855d2a
+      internalID: 8477024777194791008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4900482ecde20db4fb5854e6c43afccc
+      internalID: 4407986679705979684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_71
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f3f2c38d4e7b479eeb704a484c77d
+      internalID: 1771814429947581091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_72
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3390cb9e91ec024b8ba7d7175962931
+      internalID: 6934742554102780057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_73
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8128f7a3df48d0438cf242c77d26066
+      internalID: -6289849408820781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_74
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26d6bcd6f640842a3c8563c74d73c4
+      internalID: 3751769656449651439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bichinhos_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28609271f7792f43a426358e31ce579
+      internalID: 353799349571235263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
